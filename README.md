@@ -25,13 +25,13 @@ $ npm start
 - `<Button>` as `button` ([see here](https://reactnative.dev/docs/button))
 - `<TextInput>` as `input` ([see here](https://reactnative.dev/docs/textinput))
 
-Non button clickable components
+### Non button clickable components
 - `ouchableOpacity` ([see here](https://reactnative.dev/docs/touchableopacity))
 - `TouchableHighlight` ([see here](https://reactnative.dev/docs/touchablehighlight))
 - `TouchableWithoutFeedback` ([see here](https://reactnative.dev/docs/touchablewithoutfeedback))
 
-Alert
-- 
+### Alert
+- `Alert.alert()` ([see here](https://reactnative.dev/docs/alert))
 
-Scrollable
-- `
+### List
+- `<FlatList>` ([see here](https://reactnative.dev/docs/flatlist))
