@@ -34,6 +34,7 @@ $ npm start
 
 ### Alert
 - `Alert.alert()` ([see here](https://reactnative.dev/docs/alert))
+- see that this does not work on web!
 
 ### List
 - `<FlatList>` ([see here](https://reactnative.dev/docs/flatlist))
